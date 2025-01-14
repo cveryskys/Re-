@@ -1,11 +1,6 @@
 #include <iostream>
-#include "injector.h"
 
 int main() {
-    std::cout << "Welcome to Redax Executor!" << std::endl;
-    
-    DWORD processID = 1234; 
-    InjectDLL(processID, "dll/sample.dll");
-    
+    std::cout << "ayden likes your penis" << std::endl;
     return 0;
 }
