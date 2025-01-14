@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "ayden likes you" << std::endl;
+    std::cout << "let me see your dick daddy" << std::endl;
     return 0;
 }
